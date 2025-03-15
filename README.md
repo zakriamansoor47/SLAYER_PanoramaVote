@@ -83,3 +83,10 @@ To add/change the Vote Passed and Vote Failed Text you have to add `SFUI_vote_pa
 ```c#
 "SFUI_vote_passed_panorama_vote"			"<font color='#00ff12'>{s:s1}</font>"
 "SFUI_vote_failed_panorama_vote"			"<font color='#ff0000'>{s:s1}</font>"
+```
+
+## How to use Panorama Votes in your Plugin:
+Simply copy **PanoramaVotes.cs** to your project. And Import it into your project:
+```c#
+using PanoramaVotes;
+```

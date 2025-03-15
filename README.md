@@ -1,4 +1,3 @@
-# SLAYER_PanoramaVote
 # Accepting Paid Request! Discord: Slayer47#7002
 # Support
 Don't forget to give Star

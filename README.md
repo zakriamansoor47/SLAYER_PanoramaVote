@@ -6,10 +6,19 @@ Don't forget to give Star
 
 ## Description:
 Panorama Vote (Default CS2 Vote) for CounterStrikeSharp.
+## Images:
+
+<a href="https://ibb.co/MkQxzMxc"><img src="https://i.ibb.co/r2NRB4Rx/image-vote.png" alt="image-vote" border="0"></a> 
+
+<a href="https://ibb.co/ch1zQfdP"><img src="https://i.ibb.co/5h6qLpVd/custom-html.png" alt="custom-html" border="0"></a>
+
+<a href="https://ibb.co/twxZ5vHJ"><img src="https://i.ibb.co/MyG8LtgC/default-vote.png" alt="default-vote" border="0"></a>
+
+<a href="https://ibb.co/WW3sT90f"><img src="https://i.ibb.co/3yskJXvc/colored-vote.png" alt="colored-vote" border="0"></a>
 
 ## Installation:
 **1.** Upload file **platform_english.txt** to your server and Game **\game\csgo\resource**
-### Note: For Custom Vote text this file should be installed in both server and client game. (Download to players by Workshop I guess).
+### Note: For Custom Vote text this file should be installed in both the server and client game. (Download to players by Workshop I guess).
 
 ## How to Add Custom TEXT in Vote:
 When you send the Panorama Vote to Player(s) like this

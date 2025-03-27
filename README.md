@@ -20,6 +20,14 @@ Panorama Vote (Default CS2 Vote) for CounterStrikeSharp.
 **1.** Upload file **platform_english.txt** to your server and Game **\game\csgo\resource**
 ### Note: For Custom Vote text this file should be installed in both the server and client game. (Download to players by Workshop I guess).
 
+Make sure these convars are enabled otherwise, you will see vote but can't vote.
+```
+sv_allow_votes true
+sv_vote_allow_in_warmup true
+sv_vote_allow_spectators true
+sv_vote_count_spectator_votes true
+```
+
 ## How to Add Custom TEXT in Vote:
 When you send the Panorama Vote to Player(s) like this
 ```c#

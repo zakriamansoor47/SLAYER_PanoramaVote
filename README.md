@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/downloads/zakriamansoor47/SLAYER_PanoramaVote/total?style=for-the-badge)
+
 # Accepting Paid Request! Discord: Slayer47#7002
 # Support
 Don't forget to give Star
